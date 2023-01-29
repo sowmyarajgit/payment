@@ -1,6 +1,6 @@
 @Library('roboshop') _
 
-env.component = "payment"
+env.component = "payments"
 env.app_lang = "python"
 
 ci()
